@@ -1,0 +1,7 @@
+
+mine-distance: 5   #in blocks
+cobweb-distance: 5   #in blocks
+
+mine-cooldown: 10   #in seconds
+cobweb-cooldown: 10   #in seconds
+

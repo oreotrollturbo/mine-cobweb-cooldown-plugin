@@ -1,0 +1,4 @@
+name: mine-cobweb-cooldown
+version: '${project.version}'
+main: org.oreo.minecobwebcooldown.Mine_cobweb_cooldown
+api-version: '1.20'
